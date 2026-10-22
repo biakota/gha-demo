@@ -10,4 +10,3 @@ jobs:
     steps:
       - name: Connecting to Env
         run: echo "App is connecting to $APP_ENV"
-        
